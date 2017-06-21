@@ -1,0 +1,5 @@
+ID	ten dang nhap	mat khau	vai tro		trang thai
+1900	quanly1		quanly1		1		1
+1276	thuthu1		thuthu1		2		1
+1823	docgia1		docgia1		3		1
+1453	docgia2		docgia2		3		0

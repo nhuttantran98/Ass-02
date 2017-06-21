@@ -1,0 +1,13 @@
+﻿  Program.cpp
+f:\download\libpro.zip (unzipped files)-20170619t050201z-001\libpro.zip (unzipped files)\libpro\libpro\login_register.h(57): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+f:\download\libpro.zip (unzipped files)-20170619t050201z-001\libpro.zip (unzipped files)\libpro\libpro\login_register.h(81): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+f:\download\libpro.zip (unzipped files)-20170619t050201z-001\libpro.zip (unzipped files)\libpro\libpro\login_register.h(122): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+f:\download\libpro.zip (unzipped files)-20170619t050201z-001\libpro.zip (unzipped files)\libpro\libpro\login_register.h(131): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+f:\download\libpro.zip (unzipped files)-20170619t050201z-001\libpro.zip (unzipped files)\libpro\libpro\login_register.h(140): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+f:\download\libpro.zip (unzipped files)-20170619t050201z-001\libpro.zip (unzipped files)\libpro\libpro\login_register.h(171): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+f:\download\libpro.zip (unzipped files)-20170619t050201z-001\libpro.zip (unzipped files)\libpro\libpro\um.h(11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+f:\download\libpro.zip (unzipped files)-20170619t050201z-001\libpro.zip (unzipped files)\libpro\libpro\um.h(25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+f:\download\libpro.zip (unzipped files)-20170619t050201z-001\libpro.zip (unzipped files)\libpro\libpro\program.cpp(51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+f:\download\libpro.zip (unzipped files)-20170619t050201z-001\libpro.zip (unzipped files)\libpro\libpro\program.cpp(162): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LIBPRO.vcxproj -> F:\download\LIBPRO.zip (Unzipped Files)-20170619T050201Z-001\LIBPRO.zip (Unzipped Files)\LIBPRO\x64\Debug\LIBPRO.exe
+  LIBPRO.vcxproj -> F:\download\LIBPRO.zip (Unzipped Files)-20170619T050201Z-001\LIBPRO.zip (Unzipped Files)\LIBPRO\x64\Debug\LIBPRO.pdb (Partial PDB)
